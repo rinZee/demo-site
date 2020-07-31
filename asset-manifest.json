@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/rinZee/demo-site/static/css/main.5f361e03.chunk.css",
-    "main.js": "/rinZee/demo-site/static/js/main.bbfd5b9e.chunk.js",
-    "main.js.map": "/rinZee/demo-site/static/js/main.bbfd5b9e.chunk.js.map",
-    "runtime-main.js": "/rinZee/demo-site/static/js/runtime-main.3ff7b11a.js",
-    "runtime-main.js.map": "/rinZee/demo-site/static/js/runtime-main.3ff7b11a.js.map",
-    "static/js/2.bbc928b7.chunk.js": "/rinZee/demo-site/static/js/2.bbc928b7.chunk.js",
-    "static/js/2.bbc928b7.chunk.js.map": "/rinZee/demo-site/static/js/2.bbc928b7.chunk.js.map",
-    "index.html": "/rinZee/demo-site/index.html",
-    "precache-manifest.66e87741f6b06a49b7d40ae6ae0a4bb3.js": "/rinZee/demo-site/precache-manifest.66e87741f6b06a49b7d40ae6ae0a4bb3.js",
-    "service-worker.js": "/rinZee/demo-site/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/rinZee/demo-site/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.bbc928b7.chunk.js.LICENSE.txt": "/rinZee/demo-site/static/js/2.bbc928b7.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/rinZee/demo-site/static/media/logo.5d5d9eef.svg"
+    "main.css": "/demo-site/static/css/main.5f361e03.chunk.css",
+    "main.js": "/demo-site/static/js/main.1231c998.chunk.js",
+    "main.js.map": "/demo-site/static/js/main.1231c998.chunk.js.map",
+    "runtime-main.js": "/demo-site/static/js/runtime-main.69166f75.js",
+    "runtime-main.js.map": "/demo-site/static/js/runtime-main.69166f75.js.map",
+    "static/js/2.bbc928b7.chunk.js": "/demo-site/static/js/2.bbc928b7.chunk.js",
+    "static/js/2.bbc928b7.chunk.js.map": "/demo-site/static/js/2.bbc928b7.chunk.js.map",
+    "index.html": "/demo-site/index.html",
+    "precache-manifest.17ad12af11ae5f5018f19c1a7caf9b22.js": "/demo-site/precache-manifest.17ad12af11ae5f5018f19c1a7caf9b22.js",
+    "service-worker.js": "/demo-site/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/demo-site/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.bbc928b7.chunk.js.LICENSE.txt": "/demo-site/static/js/2.bbc928b7.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/demo-site/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.3ff7b11a.js",
+    "static/js/runtime-main.69166f75.js",
     "static/js/2.bbc928b7.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.bbfd5b9e.chunk.js"
+    "static/js/main.1231c998.chunk.js"
   ]
 }
